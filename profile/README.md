@@ -1,4 +1,12 @@
+
+
 # devHangar - Container driven project environment for organizations
+
+<br>
+
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=flat-square&logo=conventionalcommits&logoColor=white&labelColor=7a338f&color=9a40b5 "project uses conventional commits")](https://conventionalcommits.org) [![Wiki Status Badge](https://img.shields.io/github/actions/workflow/status/devHangar/wiki/deploy.yml?style=flat-square&logo=githubactions&logoColor=white&label=wiki%20build&labelColor=7a338f&color=9a40b5 "wiki build action status badge")](https://devhangar.github.io/wiki/devhangar.html)
+
+#
 
 This is devHanger a suite of microservices to provide projects development projects environments. Mainly for universities, schools and other learning organizations.
 
