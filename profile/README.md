@@ -1,6 +1,6 @@
 
 
-# devHangar - Container driven project environment for organizations
+# devHangar - Container driven project environments
 
 <br>
 
