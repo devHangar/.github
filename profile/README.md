@@ -4,7 +4,7 @@
 
 <br>
 
-[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=flat-square&logo=conventionalcommits&logoColor=white&labelColor=7a338f&color=9a40b5 "project uses conventional commits")](https://conventionalcommits.org) [![Wiki Status Badge](https://img.shields.io/github/actions/workflow/status/devHangar/wiki/deploy.yml?style=flat-square&logo=githubactions&logoColor=white&label=wiki%20build&labelColor=7a338f&color=9a40b5 "wiki build action status badge")](https://devhangar.github.io/wiki/devhangar.html)
+[![Conventional Commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?style=flat-square&logo=conventionalcommits&logoColor=white&labelColor=1f5468&color=2a728e "project uses conventional commits")](https://conventionalcommits.org) [![Wiki Status Badge](https://img.shields.io/github/actions/workflow/status/devHangar/wiki/deploy.yml?style=flat-square&logo=githubactions&logoColor=white&label=wiki%20build&labelColor=1f5468&color=2a728e "wiki build action status badge")](https://devhangar.github.io/wiki/devhangar.html)
 
 #
 
